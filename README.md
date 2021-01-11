@@ -171,6 +171,7 @@ Determinamos la gramimportancia que tienen los conceptos basicos de los circuito
 En definitiva, ya con los resultados en la mano de nuestros calculos aplicando el metodo en cada una de las mallas del circuito, nos damos cuenta que la teoría se hace realidad, realidad visible y palpalable aunque siempre debemos tener en caunta que todos los conceptos se basan en la idea de que los elementos del circuito son ideales.
 
 12.**Bibliografía**
+
 Alexander, S. M. (2006). Fundamento de Circuitos Eléctricos (Vol. 3ra Edición). The McGraw-Hill Companies Inc.
 EcuRed. (s.f.). Método de las corrientes de mallas. Método de las corrientes de mallas. Recuperado el 6 de Enero de 2021, de https://www.ecured.cu/M%C3%A9todo_de_las_corrientes_de_mallas
 
