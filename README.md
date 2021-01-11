@@ -173,8 +173,12 @@ En definitiva, ya con los resultados en la mano de nuestros calculos aplicando e
 12.**Bibliografía**
 Alexander, S. M. (2006). Fundamento de Circuitos Eléctricos (Vol. 3ra Edición). The McGraw-Hill Companies Inc.
 EcuRed. (s.f.). Método de las corrientes de mallas. Método de las corrientes de mallas. Recuperado el 6 de Enero de 2021, de https://www.ecured.cu/M%C3%A9todo_de_las_corrientes_de_mallas
+
 FP, E. (18 de Noviembre de 2017). Método de las mallas. Método de las mallas. Recuperado el 5 de Enero de 2021, de https://www.youtube.com/watch?v=uaG_GPQxKhg
+
 García González, A. (26 de Julio de 2013). Ley de los voltajes de Kirchhoff: Método de Mallas. Ley de los voltajes de Kirchhoff: Método de Mallas. Recuperado el 7 de Enero de 2021, de http://panamahitek.com/ley-de-los-voltajes-de-kirchhoff-metodo-de-mallas/
+
 Llanos, S. (14 de Agosto de 2015). Leyes de Kirchhoff. Leyes de Kirchhoff. Curso de Electricidad - Clase 14. Recuperado el 13 de Diciembre de 2020, de https://www.youtube.com/watch?v=Ni37_i656RI
+
 McAllister, W. (2016). Método de la Corriente de malla: https://es.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/a/ee-mesh-current-method 
 
