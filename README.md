@@ -135,7 +135,7 @@ Se establecen las direcciones de corriente en cada malla, en este caso tenemos t
 
 Sabemos que en cada resistor hay una caída de tensión, asi que teniendo en mente eso, se procede a la aplicacion de la LVK en cada una de las mallas, como son tres marllas tendremos tres ecuaciones y tres incognitas, como sigue:
 
-![](https://scontent.fuio16-1.fna.fbcdn.net/v/t1.0-9/136093130_230050351894342_2376972120347867804_n.jpg?_nc_cat=109&ccb=2&_nc_sid=730e14&_nc_eui2=AeEiTfarKRvz91GwJa2HD5I6EfYeB9Lgj9gR9h4H0uCP2BXE7VuesC-DTOCv6tDOsDHO_toPfdBZsbo-q-_gq_Cp&_nc_ohc=hL9YwNm5Ar4AX8FVI4w&_nc_ht=scontent.fuio16-1.fna&oh=7759c4b2577060eee30ab6297a4ca4ba&oe=602272AB)
+![](https://scontent.fuio16-1.fna.fbcdn.net/v/t1.0-9/136373959_230619741837403_8433119129257303966_n.jpg?_nc_cat=108&ccb=2&_nc_sid=730e14&_nc_eui2=AeEAhlit3HlBIZ5iMxBFtZ5S-94lNtvi1zH73iU22-LXMZ85f9QWVufDvZL0Fqw_4BYX22SUlHY5smVnew4Jg51g&_nc_ohc=KGckMmG3W3kAX9dzLl7&_nc_ht=scontent.fuio16-1.fna&oh=c9e066b6d9293bea9f3d49e031b677c8&oe=60226F50)
 
 Con nuestros datos obtenidos de las corrientes principales hacemos el análisis para las corrientes que pasan por los dos resistores entre las mallas.
 En este caso para la resistencia de 1k se tiene que la correinte es igual a 8.868 mA
@@ -143,9 +143,9 @@ Y para el resistor de 2.2k Ohm se tiene una corriente de 2.78 mA
 
 Finalmente expresamos  los datos en nuestra tabla
 
-![](https://scontent.fuio16-1.fna.fbcdn.net/v/t1.0-9/136685645_230055618560482_4154722149970357086_n.jpg?_nc_cat=111&ccb=2&_nc_sid=730e14&_nc_eui2=AeHAM3nec-XLbSVoAfA20J-fcPTlKs6dc2Rw9OUqzp1zZIOsy86gIkHa4Oq3ow1IWRswBuhOT-YLaxk2MPSkJCqj&_nc_ohc=1tyI76H5O64AX8iEtwC&_nc_ht=scontent.fuio16-1.fna&oh=9ee65e914c4bc9d7aa444ace0e9d3fa9&oe=60242A66)
+![](https://scontent.fuio16-1.fna.fbcdn.net/v/t1.0-9/136439523_230620028504041_2268522197934194545_n.jpg?_nc_cat=108&ccb=2&_nc_sid=730e14&_nc_eui2=AeG5ieGW--p4f8E1RY9i1juTHkqs4Y0_2uEeSqzhjT_a4avF_mCs315Ed1X5O8ueVXHInJhxmNrv1EwMcD5e-3AO&_nc_ohc=zhs-0eW3yw4AX-Gy5NV&_nc_ht=scontent.fuio16-1.fna&oh=2b359a973ff0b7218b08b82e4942de6d&oe=60247404)
 
-![](https://scontent.fuio16-1.fna.fbcdn.net/v/t1.0-9/136145444_230061688559875_5046958300279631069_n.jpg?_nc_cat=106&ccb=2&_nc_sid=730e14&_nc_eui2=AeE9UBsRFarYTrB8dABDwZcFPnC8nNuJEXE-cLyc24kRcck4bI0a3ZhcckQVbvMaVgnLH3HbK-uojhnEhMzq77Ix&_nc_ohc=Jsswp1Y7oS8AX-Ip4MR&_nc_ht=scontent.fuio16-1.fna&oh=60a008c9281b14924343bbf459579fa9&oe=602081CA)
+![](https://scontent.fuio16-1.fna.fbcdn.net/v/t1.0-9/137318842_230620038504040_1901209243334034231_n.jpg?_nc_cat=107&ccb=2&_nc_sid=730e14&_nc_eui2=AeFjToiEhbuWvECzULiIAv9YcLs11w8H7B5wuzXXDwfsHpL8CMRmqApkFpLP4enDeHhJV9r70Ev6x_UdonsQHgEM&_nc_ohc=lg4_sbDpzTcAX8hioVr&_nc_ht=scontent.fuio16-1.fna&oh=714616bf98ffe6db47c4da88004ebbb5&oe=6024E2CC)
 
 Circuito desarrollado en software
 
@@ -162,7 +162,6 @@ Imagenes de las medidas tomadas en el simulador
 ![](https://scontent.fuio16-1.fna.fbcdn.net/v/t1.0-9/138043433_229600291939348_7914293762986160689_n.jpg?_nc_cat=110&ccb=2&_nc_sid=730e14&_nc_eui2=AeG4Ldhp0ktrLdsyUgrVqFE5hmiLQXpG1K6GaItBekbUrh7h3wItf20Nk118JzzXys5vum3M0CKV6wXcb0daLJ0V&_nc_ohc=Fb47VW_gzkAAX8tQygp&_nc_ht=scontent.fuio16-1.fna&oh=56c1b6d02375a697a691fb2273d8044d&oe=60202D34)
 
 ![](https://scontent.fuio16-1.fna.fbcdn.net/v/t1.0-9/138197856_229600315272679_6052716038280249946_o.jpg?_nc_cat=103&ccb=2&_nc_sid=730e14&_nc_eui2=AeENACV-tfllEQ4tpdqRFfHU8jaWoFwfD_XyNpagXB8P9RTkXzhEAjhIZEfHMVYIbtghrDgWj2_iG60BNLE0kW_x&_nc_ohc=m-mD62zj5xYAX_GU7VL&_nc_ht=scontent.fuio16-1.fna&oh=38ef76b10d55455de84e8ddb7bba8c34&oe=60204D15)
-
 ### 10. Descripción de prerrequisitos y configuración
 Como conocimientos previos a esta practica tenemos la ley de los voltajes de Kirchhoff en un lazo cerrado que es funadamental en el método de mallas, si no se aprende primero dicha ley la enseñanza del método de mallas será en vano. Además de la ley de voltajes, debemos tener muy en cuenta una de las leyes que son el pilar fundamental de la electronica que es la ley de Ohm.
 Ya en el circuito para poder medir cada una de las corrientes que pasan por los elementos del circuito, se debe tener en cuanta la forma de medir corrientes, la que es en serie con el elemento del cual se requiere saber el dato de la correinte, y asimismo con el voltaje.
