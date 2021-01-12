@@ -147,6 +147,10 @@ Finalmente expresamos  los datos en nuestra tabla
 
 ![](https://scontent.fuio16-1.fna.fbcdn.net/v/t1.0-9/136145444_230061688559875_5046958300279631069_n.jpg?_nc_cat=106&ccb=2&_nc_sid=730e14&_nc_eui2=AeE9UBsRFarYTrB8dABDwZcFPnC8nNuJEXE-cLyc24kRcck4bI0a3ZhcckQVbvMaVgnLH3HbK-uojhnEhMzq77Ix&_nc_ohc=Jsswp1Y7oS8AX-Ip4MR&_nc_ht=scontent.fuio16-1.fna&oh=60a008c9281b14924343bbf459579fa9&oe=602081CA)
 
+Circuito desarrollado en software
+
+![](https://scontent.fuio16-1.fna.fbcdn.net/v/t1.0-9/138690824_230500981849279_3944093760062498007_n.jpg?_nc_cat=102&ccb=2&_nc_sid=730e14&_nc_eui2=AeEboWpy7vSIHNJC2AUyWSrkcGg0NCjgJPxwaDQ0KOAk_Dlql-aFo0vxu6FfUb54rDZYGMcBXfWCHt53VZ0fp9d5&_nc_ohc=zu7UgV1lgIkAX95VNKr&_nc_ht=scontent.fuio16-1.fna&oh=41a6e8a899cb2812a663a00485f2034a&oe=60217EAF)
+
 Imagenes de las medidas tomadas en el simulador
 
 ![](https://scontent.fuio16-1.fna.fbcdn.net/v/t1.0-9/137691605_229600178606026_7316919259038871256_o.jpg?_nc_cat=106&ccb=2&_nc_sid=730e14&_nc_eui2=AeE8GFaQtfEMXaxNlWdCYY-5AmfczcwwdI0CZ9zNzDB0jeR18cVMk1Wj7Nw3wUev-JvBcRSm3xvSxexfd_IYuv_z&_nc_ohc=HmD-rRbOIvEAX-mJNbb&_nc_ht=scontent.fuio16-1.fna&oh=744addaf96f16779c3484ffe96c15ef0&oe=60221AF2)
